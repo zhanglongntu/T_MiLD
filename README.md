@@ -3,7 +3,7 @@
 This is the source code to the paper "T-MiLD: Combine Multi-Modal Features with Transfer Learning for Effective Long-Tailed Vulnerability Classification". Please refer to the paper for the experimental details.
 
 ## Approach
-![](https://github.com/zhanglongntu/VulTC-LTPF/blob/main/Fig/Framework.png)
+![](https://github.com/zhanglongntu/T_MiLD/blob/main/Fig/Framework.png)
 ## About dataset.
 Due to the large size of the datasets, we have stored them in Google Drive: [Dataset Link](https://drive.google.com/file/d/1T7aeMu3scAEFCNFMIIPeFgrtUIv7_ZGz/view?usp=drive_link)
 
